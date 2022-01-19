@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brennomds
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on fron-end & back-end projects
+- 💞️ I’m looking to collaborate on front-end & back-end projects
 - 📫 How to reach me brnn0.mds@gmail.com
 
 <!---
